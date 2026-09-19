@@ -1,0 +1,8 @@
+# This repository holds only the Manikanta fairGold jewels site.
+# Everything else in this harness folder is deliberately kept out, including
+# key.txt and composio-key.txt. Allow-list only the site files.
+*
+!.gitignore
+!index.html
+!images/
+!images/**
